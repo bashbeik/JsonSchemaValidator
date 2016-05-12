@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\JsonSchemaValidator.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\obj\Debug\JsonSchemaValidator.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\obj\Debug\JsonSchemaValidator.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\obj\Debug\JsonSchemaValidator.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\obj\Debug\JsonSchemaValidator.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\JsonSchemaValidator.exe
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\JsonSchemaValidator.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\Newtonsoft.Json.dll
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\Newtonsoft.Json.Schema.dll
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\Newtonsoft.Json.xml
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\bin\Debug\Newtonsoft.Json.Schema.xml
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\obj\Debug\JsonSchemaValidator.exe
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidator\obj\Debug\JsonSchemaValidator.pdb

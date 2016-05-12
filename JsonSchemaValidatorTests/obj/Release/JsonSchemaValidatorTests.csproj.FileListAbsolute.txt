@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidatorTests\bin\Release\JsonSchemaValidatorTests.dll
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidatorTests\bin\Release\JsonSchemaValidatorTests.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidatorTests\obj\Release\JsonSchemaValidatorTests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidatorTests\obj\Release\JsonSchemaValidatorTests.dll
+c:\users\administrator\documents\visual studio 2012\Projects\JsonSchemaValidator\JsonSchemaValidatorTests\obj\Release\JsonSchemaValidatorTests.pdb
