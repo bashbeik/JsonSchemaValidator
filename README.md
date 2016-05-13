@@ -2,6 +2,8 @@
 
 A Simple Json Schema Validator using NewtonSoft.Json.Schema library
 
-To use:
+# To use:
 
-open JsonSchemaValidator.exe and fill in your schema and jso then click on "Validate Schema"
+Open JsonSchemaValidator.exe and fill in your schema and json, and then click on "Validate Schema"
+
+The program will highlight any invalid syntax line
