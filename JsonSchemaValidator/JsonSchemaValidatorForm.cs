@@ -50,6 +50,8 @@ namespace JsonSchemaValidator
 
 
                     int i = getLineNum(msg);
+                    
+                    //decrease for zero based index
                     i--;
                     int start = jsonRichTextBox.GetFirstCharIndexFromLine(i);
                     int length = jsonRichTextBox.Lines[i].Length;
